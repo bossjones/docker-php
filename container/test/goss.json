@@ -1,0 +1,22 @@
+{
+  "package": {
+    "php5-gearman": {
+      "installed": true,
+      "versions": [
+        "1.1.2-1+deb.sury.org~trusty+2"
+      ]
+    },
+    "php5-memcache": {
+      "installed": true,
+      "versions": [
+        "3.0.8-5+deb.sury.org~trusty+1"
+      ]
+    },
+    "php5": {
+      "installed": true
+    },
+    "php5-fpm": {
+      "installed": true
+    }
+  }
+}
